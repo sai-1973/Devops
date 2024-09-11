@@ -37,7 +37,7 @@ def main():
         elif choice == '4':
             print(f"{num1} / {num2} = {divide(num1, num2)}")
     else:
-        print("Invalid input")
+        print("enter proper input")
 
 if __name__ == "__main__":
     main()
